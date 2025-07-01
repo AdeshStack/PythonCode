@@ -10,5 +10,9 @@ public class WavyPattern {
             System.out.println();
             Thread.sleep(100); // delay for wave motion
         }
+
+        System.out.println("\u001B[31mRed Text\u001B[0m");
+
+        
     }
 }
