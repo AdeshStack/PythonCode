@@ -1,7 +1,7 @@
 import math
 import time
 import os
-
+print("Hello Adesh")
 colors = ["\033[91m", "\033[93m", "\033[92m", "\033[96m", "\033[94m", "\033[95m"]
 reset = "\033[0m"
 
